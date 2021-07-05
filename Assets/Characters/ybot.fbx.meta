@@ -1,12 +1,22 @@
 fileFormatVersion: 2
-guid: 305a981181c560448a7876fcc203820b
+guid: eef149f3e46f77645b780ecfff714ffc
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable:
   - first:
       74: -203655887218126122
     second: mixamo.com
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Alpha_Body_MAT
+    second: {fileID: 2100000, guid: 2ce939f52a5f866458aa279b9259a7ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Alpha_Joints_MAT
+    second: {fileID: 2100000, guid: 3b3ae5683cd33224c8778957388f6b4b, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
